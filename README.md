@@ -11,3 +11,7 @@ This project is a simple user authentication system developed using PHP 8.2 and 
 - User Logout
 - Basic Session Management
 - Password Hashing for Security
+
+![Screenshot_1](https://github.com/user-attachments/assets/00a82d8a-9326-40ad-bbb4-862305096271)
+
+
